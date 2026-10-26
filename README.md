@@ -6,7 +6,7 @@
 
 ### Building meaningful solutions through code 💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/puja-jathar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/puja-jathar)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore-black?logo=github)](https://github.com/pujajathar)
 
 </div>
@@ -21,7 +21,7 @@ Hi, I'm Puja! 👋 A curious mind who loves solving problems, learning new thing
 My journey into software development is driven by curiosity and the excitement of creating something useful from scratch. I enjoy exploring how things work, tackling coding challenges, and bringing ideas to life through applications that make everyday tasks easier.
 
 <div>
-<code>🚀 Currently seeking: Junior Software Developer<br/>Full-stack | Back-end | Front-end<br/>St. Louis, MO | Remote</code>
+<code>🚀 Currently seeking: Junior Software Developer<br/>Full-stack | Back-end | Front-end<br/></code> in Saint Loius, MO or Remote.
 </div>
 
 ### 💡 A little about me:
@@ -108,7 +108,7 @@ and help families stay on top of their children's learning.
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/puja-jathar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/puja-jathar)
 - 🐙 [GitHub](https://github.com/pujajathar)
 
 ---
