@@ -21,7 +21,7 @@ Hi, I'm Puja! 👋 A curious mind who loves solving problems, learning new thing
 My journey into software development is driven by curiosity and the excitement of creating something useful from scratch. I enjoy exploring how things work, tackling coding challenges, and bringing ideas to life through applications that make everyday tasks easier.
 
 <div>
-<code>🚀 Currently seeking: Junior Software Developer <br/> Full-stack | Back-end | Front-end<br/></code> in Saint Loius, MO or Remote.
+<code>🚀 Currently seeking: Junior Software Developer<br/> ( Full-stack | Back-end | Front-end )<br/></code> in Saint Loius, MO or Remote.
 </div>
 
 ### 💡 A little about me:
